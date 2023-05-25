@@ -90,10 +90,10 @@ In this capstone project ([remember what capstones are?](https://github.com/micr
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name ="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name ="live-demo"></a>
 
 - [Live Demo link](https://jansuet.github.io/Portfolio/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ## :computer: Getting Started <a name="getting-started"></a>
 
